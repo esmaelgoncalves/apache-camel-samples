@@ -1,0 +1,6 @@
+[submodule "webservices"]
+	path = webservices
+	url = C:/Program Files/Git/webservices
+[submodule "camel-spring-boot-projeto"]
+	path = camel-spring-boot-projeto
+	url = C:/Program Files/Git/camel-spring-boot-projeto
